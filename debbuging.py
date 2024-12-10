@@ -53,8 +53,12 @@ def amount_of_a(word):
 def main():
     # you can call your functions here
 
+    print()
+    
     print(is_prime(1))
-    is_prime_test()
+    print(is_prime(5))
+
+    print()
 
 
 if __name__ == "__main__":
