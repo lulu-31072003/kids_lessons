@@ -12,7 +12,7 @@ def is_prime(num):
 
 # test function for is_prime function
 def is_prime_test():
-    assert not is_prime(1)
+    assert is_prime(1) == False
     print("Everything works :D !")
 
 
