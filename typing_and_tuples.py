@@ -13,7 +13,7 @@ def even_digits(num):
             is_even = False
         num = num // 10
 
-    return (is_even, digits)
+    return is_even
 
 
 print(even_digits(12345))
