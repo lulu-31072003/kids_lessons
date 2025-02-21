@@ -55,7 +55,7 @@ def main():
 
     print()
     
-    print(is_prime(1))
+    print(is_prime(5))
 
     print()
 
